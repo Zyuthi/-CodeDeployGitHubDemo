@@ -1,0 +1,11 @@
+//code for  helloworld in c++ 
+
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World!";
+    return 0;
+}
+
+
+outout:   Hello World!
